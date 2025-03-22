@@ -1,8 +1,18 @@
 # Tiny6-P340-pcie-bifurcation-expansion-card
 Lenovo Tiny6 P340 PCIE Bifurcation Expansion Card
 
-** 目前正在设计和原型实验中，还需要等待一段时间 **
+** 目前已经测试完成，已在淘宝销售 **
 
+English explanatory document: [README_EN.md](README_EN.md)
+
+https://h5.m.taobao.com/awp/core/detail.htm?id=901219002736
+
+如果是海外用户，无法直接在淘宝购买，可以使用代购平台：
+
+https://www.superbuy.com/
+
+
+其他教程信息请看B站链接： https://b23.tv/Vhjv9B8
 
 
 
@@ -10,15 +20,24 @@ Lenovo Tiny6 P340 PCIE Bifurcation Expansion Card
 
 拆分卡接口资源介绍，支持： 
 
-    1个PCIE3.0 x4
+    1个PCIE插槽(PCIE3.0 x4)
 
-    2个M.2(nvme PCIE3.0 x4)
+    2个M.2插槽(nvme PCIE3.0 x4)
 
-    1个TF卡槽(USB2.0)
+    1个TF卡插槽(USB2.0)
 
-    1个风扇插座(12V xh2.54)
+    1个风扇插座(12V XH2.54)
 
 ![Alt](picture/CARD-1.jpg)
+
+![Alt](picture/CARD-2.jpg)
+
+
+主板安装后图片：
+
+![Alt](picture/MB-1.jpg)
+
+![Alt](picture/MB-2.jpg)
 
 
 
@@ -35,7 +54,10 @@ Lenovo Tiny6 P340 PCIE Bifurcation Expansion Card
 ![Alt](picture/PCIE-BIF-CPU-1.jpg)
 
 
+
 ### 方式二： 补上主板上面的配置电阻
+
+** 不建议这种方式，短接CPU触点更简单方便 **
 
 自备  0805封装 0R电阻 1颗
 
