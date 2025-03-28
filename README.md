@@ -1,7 +1,7 @@
 # Tiny6-P340-pcie-bifurcation-expansion-card
 Lenovo Tiny6 P340 PCIE Bifurcation Expansion Card
 
-** 目前已经测试完成，已在淘宝销售 **
+***\* 目前已经测试完成，已在淘宝销售 \****
 
 English explanatory document: [README_EN.md](README_EN.md)
 
